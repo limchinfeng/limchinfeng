@@ -1,3 +1,3 @@
 # profile
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=profile &theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=profile&theme=radical)
