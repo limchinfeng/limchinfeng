@@ -35,11 +35,11 @@
 
 <h3 align="left">How to reach me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/lim-chin-feng/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Lim Chin Feng" height="30" width="40" /></a>
-<a href="https://www.facebook.com/lim.chinfeng.3/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Lim Chin Feng" height="30" width="40" /></a>
-<a href="https://www.instagram.com/limchinfeng/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="limchinfeng" height="30" width="40" /></a>
-<a href="https://leetcode.com/limchinfeng/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="limchinfeng" height="30" width="40" /></a>
-<a href="https://discord.gg/supershuaifeng" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="supershuaifeng" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/lim-chin-feng/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Lim Chin Feng" height="30" width="40" /></a>
+<a href="https://www.facebook.com/lim.chinfeng.3/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Lim Chin Feng" height="30" width="40" /></a>
+<a href="https://www.instagram.com/limchinfeng/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="limchinfeng" height="30" width="40" /></a>
+<a href="https://leetcode.com/limchinfeng/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="limchinfeng" height="30" width="40" /></a>
+<a href="https://discord.gg/supershuaifeng" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="supershuaifeng" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
