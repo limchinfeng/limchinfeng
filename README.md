@@ -7,6 +7,7 @@
   
 - ⚓ I’m currently working on  :
   - Serverless Full-stack Developer - [Web-Based Internship & Project Showcase Management System](https://github.com/limchinfeng/cat304-group38)
+  - Angular framework
   - [Leetcode Challenges](https://github.com/limchinfeng/leetcode)
 
 - Project that you might interested👀:
