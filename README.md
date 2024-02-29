@@ -6,12 +6,14 @@
 - 🌱 I’m currently learning **FullStack Development**
   
 - ⚓ I’m currently working on  :
-  - Serverless Full-stack Developer - [Web-Based Internship & Project Showcase Management System](https://github.com/limchinfeng/cat304-group38)
+  - Full-stack Developer 
   - Angular framework
+  - Flutter
   - [Leetcode Challenges](https://github.com/limchinfeng/leetcode)
 
 - Project that you might interested👀:
   - Web Development Project:
+    - Serverless Full-stack Project - [Web-Based Internship & Project Showcase Management System](https://github.com/limchinfeng/cat304-group38) 
     - Serverless Full-stack Hackathon Project - [Blockchain Home Rental Platforms (Trustay)  ](https://github.com/limchinfeng/algohub-fronted)
     - Static Portfolio - [Therapist Portfolio](https://github.com/limchinfeng/limkimseah)
 
