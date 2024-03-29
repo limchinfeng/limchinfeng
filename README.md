@@ -7,7 +7,8 @@
   
 - ⚓ I’m currently working on  :
   - Full-stack Developer 
-  - Angular framework
+  - Laravel
+  - React Native
   - Flutter
   - [Leetcode Challenges](https://github.com/limchinfeng/leetcode)
 
