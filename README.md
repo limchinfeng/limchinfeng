@@ -8,15 +8,16 @@
 - ⚓ I’m currently working on  :
   - Full-stack Developer 
   - Laravel
-  - React Native
-  - Flutter
+  - React & Typescript
+  - Mobile Development
   - [Leetcode Challenges](https://github.com/limchinfeng/leetcode)
 
 - Project that you might interested👀:
   - Web Development Project:
-    - Serverless Full-stack Project - [Web-Based Internship & Project Showcase Management System](https://github.com/limchinfeng/cat304-group38) 
-    - Serverless Full-stack Hackathon Project - [Blockchain Home Rental Platforms (Trustay)  ](https://github.com/limchinfeng/algohub-fronted)
-    - Static Portfolio - [Therapist Portfolio](https://github.com/limchinfeng/limkimseah)
+    - Laravel Full-stack Project - [Food Ordering Ecommerce System](https://github.com/limchinfeng/laravel-food-ordering-ecommerce)  
+    - Serverless Typescript Nextjs Full-stack Project - [Web-Based Internship & Project Showcase Management System](https://github.com/limchinfeng/cat304-group38) 
+    - Serverless Typescript Nextjs Full-stack Hackathon Project - [Blockchain Home Rental Platforms (Trustay)  ](https://github.com/limchinfeng/algohub-fronted)
+    - Static Client's Portfolio - [Therapist Portfolio](https://github.com/limchinfeng/limkimseah)
 
   - Mobile Development Project:
     - Front-end Developer - [Seamless E-payments System](https://github.com/pmgwee/payhack_12)
