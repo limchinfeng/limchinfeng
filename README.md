@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Lim Chin Feng</h1>
 <h3 align="center">A Software Engineering Student from USM</h3>
+<h5 align="center">Check my <a href="https://limchinfeng.com" target="_blank">portfolio</a> 👈</h5>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=limchinfeng&label=Profile%20views&color=0e75b6&style=flat" alt="limchinfeng" /> </p>
 
